@@ -1,2 +1,10 @@
 # VueStarter
-A comprehensive Vue 3 starter template integrated with PrimeVue, Vue Router, and Pinia, designed to kickstart your Vue development with the best practices and powerful tools.
+
+Welcome to VueStarter, my go-to template for kick-starting Vue 3 projects. this starter kit embodies the best practices and tools I've embraced over my journey with Vue.js,
+
+## Core Features
+
+- **Vue 3**
+- **PrimeVue**
+- **Vue Router**
+- **Pinia**
